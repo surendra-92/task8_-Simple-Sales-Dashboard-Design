@@ -6,7 +6,7 @@ https://github.com/surendra-92/task8_-Simple-Sales-Dashboard-Design/blob/main/su
 
 Above  fig shows that <br> 
 
-Insights 
+Insights  <br>
 “West region had the highest sales in july 2022 ” <br>
 
 “Accessories category generated the highest revenue overall.” <br>
